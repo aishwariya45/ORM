@@ -41,6 +41,8 @@ admin.site.register(Bankloan,BankloanAdmin)
 
 # OUTPUT
 Include the screenshot of your admin page.
+![Screenshot 2024-12-02 052619](https://github.com/user-attachments/assets/417c9ce7-f807-4877-8dc2-dac8413bdffd)
+
 ![alt text](<Screenshot 2024-11-27 182713.png>)
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
